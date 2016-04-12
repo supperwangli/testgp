@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="touch/src/dataview/component/|touch/src/ux/device/|touch/src/device/purchases/|touch/src/device/communicator/|touch/src/chart/label/|touch/src/event/|touch/src/layout/wrapper/|touch/src/fx/layout/card/|touch/src/device/orientation/|touch/src/draw/|touch/src/device/sqlite/|touch/src/device/camera/|touch/src/chart/grid/|touch/src/ux/parse/|touch/src/carousel/|touch/src/device/device/|touch/src/env/|.sencha/app/microloader/|touch/src/app/|touch/src/util/translatable/|touch/src/log/|touch/src/ux/parse/association/|touch/src/draw/sprite/|touch/src/log/formatter/|touch/src/navigation/|touch/src/chart/axis/layout/|touch/src/ux/device/analytics/|touch/src/device/|touch/src/data/proxy/|touch/src/direct/|touch/src/device/filesystem/|touch/src/chart/series/sprite/|touch/src/core/class/|touch/src/device/media/|touch/src/device/connection/|touch/src/device/splashscreen/|touch/src/dataview/element/|touch/src/util/|touch/src/data/association/|touch/src/log/writer/|touch/src/util/paintmonitor/|touch/src/data/identifier/|touch/src/core/lang/|touch/src/device/compass/|touch/src/chart/axis/|touch/src/fx/layout/|touch/src/table/|touch/|touch/src/device/browser/|touch/src/device/capture/|touch/src/device/notification/|touch/src/data/reader/|touch/src/fx/|app/view/|touch/src/locale/|touch/src/draw/gradient/|touch/src/device/push/|touch/src/|touch/src/behavior/|touch/src/ux/|touch/src/data/|touch/src/device/accelerometer/|touch/src/dom/|touch/src/plugin/|touch/src/fx/animation/|touch/src/scroll/indicator/|touch/src/platform/src/data/stores/|touch/src/data/writer/|touch/src/device/storage/|touch/src/device/tunnel/|touch/src/fx/easing/|touch/src/chart/interactions/|touch/src/event/recognizer/|touch/src/device/globalization/|touch/src/field/|touch/src/layout/|touch/src/chart/axis/segmenter/|touch/src/viewport/|touch/src/ux/device/twitter/|touch/src/draw/modifier/|touch/src/scroll/|touch/src/platform/src/data/proxies/|touch/src/event/publisher/|touch/src/core/version/|touch/src/draw/engine/|touch/src/tab/|touch/src/form/|touch/src/chart/axis/sprite/|touch/src/core/|touch/src/mixin/|build/temp/production/AskApp/sencha-compiler/|touch/src/dataview/|touch/src/device/contacts/|touch/src/device/geolocation/|touch/microloader/|build/temp/production/AskApp/sencha-compiler/app/|touch/src/log/filter/|touch/src/platform/src/data/sync/|touch/src/chart/series/|touch/src/data/plugin/|touch/src/slider/|touch/src/device/storage/HTML5/|touch/src/util/sizemonitor/|touch/src/fx/runner/|touch/src/picker/|touch/src/chart/" kind="src" path=""/>
+	<classpathentry kind="src" path=".sencha/app/microloader"/>
+	<classpathentry kind="src" path="app/view"/>
+	<classpathentry excluding="app/" kind="src" path="build/temp/production/AskApp/sencha-compiler"/>
+	<classpathentry kind="src" path="build/temp/production/AskApp/sencha-compiler/app"/>
+	<classpathentry excluding="src/dataview/component/|src/ux/device/|src/device/purchases/|src/device/communicator/|src/chart/label/|src/event/|src/layout/wrapper/|src/fx/layout/card/|src/device/orientation/|src/draw/|src/device/sqlite/|src/device/camera/|src/chart/grid/|src/ux/parse/|src/carousel/|src/device/device/|src/env/|src/app/|src/util/translatable/|src/log/|src/ux/parse/association/|src/draw/sprite/|src/log/formatter/|src/navigation/|src/chart/axis/layout/|src/ux/device/analytics/|src/device/|src/data/proxy/|src/direct/|src/device/filesystem/|src/chart/series/sprite/|src/core/class/|src/device/media/|src/device/connection/|src/device/splashscreen/|src/dataview/element/|src/util/|src/data/association/|src/log/writer/|src/util/paintmonitor/|src/data/identifier/|src/core/lang/|src/device/compass/|src/chart/axis/|src/fx/layout/|src/table/|src/device/browser/|src/device/capture/|src/device/notification/|src/data/reader/|src/fx/|src/locale/|src/draw/gradient/|src/device/push/|src/|src/behavior/|src/ux/|src/data/|src/device/accelerometer/|src/dom/|src/plugin/|src/fx/animation/|src/scroll/indicator/|src/platform/src/data/stores/|src/data/writer/|src/device/storage/|src/device/tunnel/|src/fx/easing/|src/chart/interactions/|src/event/recognizer/|src/device/globalization/|src/field/|src/layout/|src/chart/axis/segmenter/|src/viewport/|src/ux/device/twitter/|src/draw/modifier/|src/scroll/|src/platform/src/data/proxies/|src/event/publisher/|src/core/version/|src/draw/engine/|src/tab/|src/form/|src/chart/axis/sprite/|src/core/|src/mixin/|src/dataview/|src/device/contacts/|src/device/geolocation/|microloader/|src/log/filter/|src/platform/src/data/sync/|src/chart/series/|src/data/plugin/|src/slider/|src/device/storage/HTML5/|src/util/sizemonitor/|src/fx/runner/|src/picker/|src/chart/" kind="src" path="touch"/>
+	<classpathentry kind="src" path="touch/microloader"/>
+	<classpathentry excluding="dataview/component/|ux/device/|device/purchases/|device/communicator/|chart/label/|event/|layout/wrapper/|fx/layout/card/|device/orientation/|draw/|device/sqlite/|device/camera/|chart/grid/|ux/parse/|carousel/|device/device/|env/|app/|util/translatable/|log/|ux/parse/association/|draw/sprite/|log/formatter/|navigation/|chart/axis/layout/|ux/device/analytics/|device/|data/proxy/|direct/|device/filesystem/|chart/series/sprite/|core/class/|device/media/|device/connection/|device/splashscreen/|dataview/element/|util/|data/association/|log/writer/|util/paintmonitor/|data/identifier/|core/lang/|device/compass/|chart/axis/|fx/layout/|table/|device/browser/|device/capture/|device/notification/|data/reader/|fx/|locale/|draw/gradient/|device/push/|behavior/|ux/|data/|device/accelerometer/|dom/|plugin/|fx/animation/|scroll/indicator/|platform/src/data/stores/|data/writer/|device/storage/|device/tunnel/|fx/easing/|chart/interactions/|event/recognizer/|device/globalization/|field/|layout/|chart/axis/segmenter/|viewport/|ux/device/twitter/|draw/modifier/|scroll/|platform/src/data/proxies/|event/publisher/|core/version/|draw/engine/|tab/|form/|chart/axis/sprite/|core/|mixin/|dataview/|device/contacts/|device/geolocation/|log/filter/|platform/src/data/sync/|chart/series/|data/plugin/|slider/|device/storage/HTML5/|util/sizemonitor/|fx/runner/|picker/|chart/" kind="src" path="touch/src"/>
+	<classpathentry kind="src" path="touch/src/app"/>
+	<classpathentry kind="src" path="touch/src/behavior"/>
+	<classpathentry kind="src" path="touch/src/carousel"/>
+	<classpathentry excluding="label/|grid/|axis/layout/|series/sprite/|axis/|interactions/|axis/segmenter/|axis/sprite/|series/" kind="src" path="touch/src/chart"/>
+	<classpathentry excluding="layout/|segmenter/|sprite/" kind="src" path="touch/src/chart/axis"/>
+	<classpathentry kind="src" path="touch/src/chart/axis/layout"/>
+	<classpathentry kind="src" path="touch/src/chart/axis/segmenter"/>
+	<classpathentry kind="src" path="touch/src/chart/axis/sprite"/>
+	<classpathentry kind="src" path="touch/src/chart/grid"/>
+	<classpathentry kind="src" path="touch/src/chart/interactions"/>
+	<classpathentry kind="src" path="touch/src/chart/label"/>
+	<classpathentry excluding="sprite/" kind="src" path="touch/src/chart/series"/>
+	<classpathentry kind="src" path="touch/src/chart/series/sprite"/>
+	<classpathentry excluding="class/|lang/|version/" kind="src" path="touch/src/core"/>
+	<classpathentry kind="src" path="touch/src/core/class"/>
+	<classpathentry kind="src" path="touch/src/core/lang"/>
+	<classpathentry kind="src" path="touch/src/core/version"/>
+	<classpathentry excluding="proxy/|association/|identifier/|reader/|writer/|plugin/" kind="src" path="touch/src/data"/>
+	<classpathentry kind="src" path="touch/src/data/association"/>
+	<classpathentry kind="src" path="touch/src/data/identifier"/>
+	<classpathentry kind="src" path="touch/src/data/plugin"/>
+	<classpathentry kind="src" path="touch/src/data/proxy"/>
+	<classpathentry kind="src" path="touch/src/data/reader"/>
+	<classpathentry kind="src" path="touch/src/data/writer"/>
+	<classpathentry excluding="component/|element/" kind="src" path="touch/src/dataview"/>
+	<classpathentry kind="src" path="touch/src/dataview/component"/>
+	<classpathentry kind="src" path="touch/src/dataview/element"/>
+	<classpathentry excluding="purchases/|communicator/|orientation/|sqlite/|camera/|device/|filesystem/|media/|connection/|splashscreen/|compass/|browser/|capture/|notification/|push/|accelerometer/|storage/|tunnel/|globalization/|contacts/|geolocation/|storage/HTML5/" kind="src" path="touch/src/device"/>
+	<classpathentry kind="src" path="touch/src/device/accelerometer"/>
+	<classpathentry kind="src" path="touch/src/device/browser"/>
+	<classpathentry kind="src" path="touch/src/device/camera"/>
+	<classpathentry kind="src" path="touch/src/device/capture"/>
+	<classpathentry kind="src" path="touch/src/device/communicator"/>
+	<classpathentry kind="src" path="touch/src/device/compass"/>
+	<classpathentry kind="src" path="touch/src/device/connection"/>
+	<classpathentry kind="src" path="touch/src/device/contacts"/>
+	<classpathentry kind="src" path="touch/src/device/device"/>
+	<classpathentry kind="src" path="touch/src/device/filesystem"/>
+	<classpathentry kind="src" path="touch/src/device/geolocation"/>
+	<classpathentry kind="src" path="touch/src/device/globalization"/>
+	<classpathentry kind="src" path="touch/src/device/media"/>
+	<classpathentry kind="src" path="touch/src/device/notification"/>
+	<classpathentry kind="src" path="touch/src/device/orientation"/>
+	<classpathentry kind="src" path="touch/src/device/purchases"/>
+	<classpathentry kind="src" path="touch/src/device/push"/>
+	<classpathentry kind="src" path="touch/src/device/splashscreen"/>
+	<classpathentry kind="src" path="touch/src/device/sqlite"/>
+	<classpathentry excluding="HTML5/" kind="src" path="touch/src/device/storage"/>
+	<classpathentry kind="src" path="touch/src/device/storage/HTML5"/>
+	<classpathentry kind="src" path="touch/src/device/tunnel"/>
+	<classpathentry kind="src" path="touch/src/direct"/>
+	<classpathentry kind="src" path="touch/src/dom"/>
+	<classpathentry excluding="sprite/|gradient/|modifier/|engine/" kind="src" path="touch/src/draw"/>
+	<classpathentry kind="src" path="touch/src/draw/engine"/>
+	<classpathentry kind="src" path="touch/src/draw/gradient"/>
+	<classpathentry kind="src" path="touch/src/draw/modifier"/>
+	<classpathentry kind="src" path="touch/src/draw/sprite"/>
+	<classpathentry kind="src" path="touch/src/env"/>
+	<classpathentry excluding="recognizer/|publisher/" kind="src" path="touch/src/event"/>
+	<classpathentry kind="src" path="touch/src/event/publisher"/>
+	<classpathentry kind="src" path="touch/src/event/recognizer"/>
+	<classpathentry kind="src" path="touch/src/field"/>
+	<classpathentry kind="src" path="touch/src/form"/>
+	<classpathentry excluding="layout/card/|layout/|animation/|easing/|runner/" kind="src" path="touch/src/fx"/>
+	<classpathentry kind="src" path="touch/src/fx/animation"/>
+	<classpathentry kind="src" path="touch/src/fx/easing"/>
+	<classpathentry excluding="card/" kind="src" path="touch/src/fx/layout"/>
+	<classpathentry kind="src" path="touch/src/fx/layout/card"/>
+	<classpathentry kind="src" path="touch/src/fx/runner"/>
+	<classpathentry excluding="wrapper/" kind="src" path="touch/src/layout"/>
+	<classpathentry kind="src" path="touch/src/layout/wrapper"/>
+	<classpathentry kind="src" path="touch/src/locale"/>
+	<classpathentry excluding="formatter/|writer/|filter/" kind="src" path="touch/src/log"/>
+	<classpathentry kind="src" path="touch/src/log/filter"/>
+	<classpathentry kind="src" path="touch/src/log/formatter"/>
+	<classpathentry kind="src" path="touch/src/log/writer"/>
+	<classpathentry kind="src" path="touch/src/mixin"/>
+	<classpathentry kind="src" path="touch/src/navigation"/>
+	<classpathentry kind="src" path="touch/src/picker"/>
+	<classpathentry kind="src" path="touch/src/platform/src/data/proxies"/>
+	<classpathentry kind="src" path="touch/src/platform/src/data/stores"/>
+	<classpathentry kind="src" path="touch/src/platform/src/data/sync"/>
+	<classpathentry kind="src" path="touch/src/plugin"/>
+	<classpathentry excluding="indicator/" kind="src" path="touch/src/scroll"/>
+	<classpathentry kind="src" path="touch/src/scroll/indicator"/>
+	<classpathentry kind="src" path="touch/src/slider"/>
+	<classpathentry kind="src" path="touch/src/tab"/>
+	<classpathentry kind="src" path="touch/src/table"/>
+	<classpathentry excluding="translatable/|paintmonitor/|sizemonitor/" kind="src" path="touch/src/util"/>
+	<classpathentry kind="src" path="touch/src/util/paintmonitor"/>
+	<classpathentry kind="src" path="touch/src/util/sizemonitor"/>
+	<classpathentry kind="src" path="touch/src/util/translatable"/>
+	<classpathentry excluding="device/|parse/|parse/association/|device/analytics/|device/twitter/" kind="src" path="touch/src/ux"/>
+	<classpathentry excluding="analytics/|twitter/" kind="src" path="touch/src/ux/device"/>
+	<classpathentry kind="src" path="touch/src/ux/device/analytics"/>
+	<classpathentry kind="src" path="touch/src/ux/device/twitter"/>
+	<classpathentry excluding="association/" kind="src" path="touch/src/ux/parse"/>
+	<classpathentry kind="src" path="touch/src/ux/parse/association"/>
+	<classpathentry kind="src" path="touch/src/viewport"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
